@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Kotlin,ethical hacking**
 
-- 📝 I regularly write articles on [ikavikumar.blogspot.com](ikavikumar.blogspot.com)
-
 - 💬 Ask me about **react,python,c++,java,web development**
 
 - 📫 How to reach me **kavikumarceo@gmail.com**
