@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently a CSE student at **Amrita Vishwa Vidyapeetham**
 
+- 🔭 I’m currently a  **3⭐ star Codecheffer**
+
 - 🌱 I’m currently learning **Kotlin,ethical hacking**
 
 - 💬 Ask me about **react,python,c++,java,web development**
