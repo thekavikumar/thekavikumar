@@ -1,4 +1,4 @@
-![headerFile](https://github.com/thekavikumar/thekavikumar/blob/master/header.png?raw=true)
+![headerFile](https://github.com/thekavikumar/thekavikumar/blob/master/header.png)
 
 ### 💻 &nbsp;About Me 
 
