@@ -1,9 +1,5 @@
 ![headerFile](https://github.com/thekavikumar/thekavikumar/blob/master/header.png?raw=true)
 
-### Hi there 👋
-
-## I'm Kavikumar M.
-
 ### 💻 &nbsp;About Me 
 
 - 🔭 I’m currently a CSE student at **Amrita Vishwa Vidyapeetham**
